@@ -16,7 +16,7 @@
     <Copyright>Ray Business Technologies</Copyright>
     <PackAsTool>False</PackAsTool>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <PackageProjectUrl>https://github.com/rbt-cms/xperience-by-kentico-card-widget</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/rbt-cms/rbt-xperience-by-kentico-custom-widgets-cardwidget</PackageProjectUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
   </PropertyGroup>
